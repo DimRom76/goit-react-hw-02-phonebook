@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  width: 300px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.form_input:focus {
+  border: 1px solid #39c;
+  outline: none;
+}
